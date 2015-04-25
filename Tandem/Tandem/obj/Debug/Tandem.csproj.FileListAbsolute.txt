@@ -1,0 +1,8 @@
+C:\Users\Thomas\Desktop\Tandem\Tandem\bin\Tandem.dll
+C:\Users\Thomas\Desktop\Tandem\Tandem\bin\Tandem.pdb
+C:\Users\Thomas\Desktop\Tandem\Tandem\obj\Debug\Tandem.dll
+C:\Users\Thomas\Desktop\Tandem\Tandem\obj\Debug\Tandem.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\Tandem\Tandem\bin\Tandem.dll
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\Tandem\Tandem\bin\Tandem.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\Tandem\Tandem\obj\Debug\Tandem.dll
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\Tandem\Tandem\obj\Debug\Tandem.pdb
